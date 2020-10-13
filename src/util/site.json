@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Brittany Shaughnessy",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
+    "description": "This is the professional site of Brittany Shaughnessy, a master's student in communication at Virginia Tech. I am currently in the process of applying to doctoral programs to continue my studies. My research primarily includes political public relations and media effects. ",
+    "siteUrl": "https://brittanyshaughnessy.netlify.app/",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
