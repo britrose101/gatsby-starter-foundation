@@ -3,11 +3,9 @@ template: about-page
 slug: /about
 title: About me
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+I received my bachelor's of arts in communication from [Coastal Carolina University](https://www.coastal.edu/) in Conway, South Carolina. My concentration was broadcast journalism and my minor was political science. Toward the end of my undergraduate career, I was "bit by the research bug." When I went to ask one of my professors for a letter of recommendation, he asked if I would be interested in coding for a book chapter of his on the Marjory Stoneman Douglas High School shooting in Parkland, Florida. I had read Dave Cullen's *Columbine* earlier that summer, and was interested in how media framed the shooting in the news. I coded for that chapter and during my last semester at Coastal Carolina, I took that professor's graduate media effects seminar, where we collaborated on a framing analysis of the Parkland shootings. This paper got published in *Journalism Practice,* my first publication
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
-
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+![Toys](/assets/2019_03_02_66706_1551461528._large.jpg "Toys")
 
 Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
 
