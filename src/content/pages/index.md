@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Brittany Shaughnessy
+tagline: Master's student at Virginia Tech's School of Communication
+featuredImage: /assets/screenshot-2019-09-05-16.25.07.png
 cta:
-  ctaText: Know more
+  ctaText: About Me
   ctaLink: /about
 ---
-He loves VT and the good life.
+My research currently focuses on political public relations and media effects.
